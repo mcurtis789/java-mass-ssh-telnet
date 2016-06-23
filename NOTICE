@@ -1,0 +1,15 @@
+javassh
+Copyright (c) 2016 CCG
+
+The following libraries are included in packaged versions of this project:
+
+JSch
+COPYRIGHT: Copyright (c) 2002-2015 Atsuhiko Yamanaka, JCraft, Inc.
+LICENSE: licenses/LICENSE.bsd.txt
+HOMEPAGE: http://www.jcraft.com/jsch/
+
+Apache Commons Net
+PROJECT LICENSE: http://commons.apache.org/proper/commons-daemon/license.html
+LICENSE: http://www.apache.org/licenses/
+HOMEPAGE: https://commons.apache.org/proper/commons-net/
+
